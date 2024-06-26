@@ -1,16 +1,18 @@
-import { useState } from 'react'
+
 import './App.css'
 import TodoList1 from './ToDoList1'
+import ToDolist2 from './ToDoList2'
 
 function App() {
   
 
   return (
    
+<>
+   {/* <TodoList1 /> */}
+   <ToDolist2 />
 
-   <TodoList1 />
-
-   
+   </>
   )
 }
 
