@@ -9,8 +9,8 @@ function App() {
   return (
    
 <>
-   {/* <TodoList1 /> */}
-   <ToDolist2 />
+   <TodoList1 />
+   {/* <ToDolist2 /> */}
 
    </>
   )
